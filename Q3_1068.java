@@ -18,8 +18,6 @@ public class Q3_1068 {
          if (n == 1) {
                 System.out.print(n + " ");
             }
-
-
-    }
+        }
 
 }
