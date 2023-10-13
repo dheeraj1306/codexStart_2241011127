@@ -19,5 +19,4 @@ public class Q3_1068 {
                 System.out.print(n + " ");
             }
         }
-
-}
+    }
