@@ -1,3 +1,8 @@
+/*
+ * Name: Dheeraj Kumar
+ * Reg no.:2241011127
+ * PS LINK: https://cses.fi/problemset/task/1068
+ */
 import java.util.Scanner;
 
 public class Q3_1068 {
