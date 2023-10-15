@@ -4,7 +4,7 @@
  * PS LINK: https://cses.fi/problemset/task/1070/
  */
 import java.util.*;
-public class Q4 {
+public class Q4_1070 {
 public static void main(String[] args) {
     Scanner sc= new Scanner(System.in);
     int count= Integer.parseInt(sc.nextLine());
