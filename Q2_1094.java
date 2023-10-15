@@ -7,7 +7,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Q2 {
+public class Q2_1094 {
     public static void main(String[] args) {
         long count=0;
         Scanner sc = new Scanner(System.in);
