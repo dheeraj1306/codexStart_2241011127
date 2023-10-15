@@ -18,8 +18,6 @@ public class Q10_1618 {
     
         static int countTrailingZeros(int n) {
             int count = 0;
-    
-            // Keep dividing n by powers of 5 and counting the results
             while (n >= 5) {
                 n /= 5;
                 count += n;
