@@ -5,7 +5,7 @@
  */
 import java.util.Scanner;
 
-public class Q7_1094 {
+public class Q71069 {
     public static void main(String[] args) {
         long max=1;
         long curr=1;
