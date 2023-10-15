@@ -12,7 +12,7 @@ public class Q6 {
             }else{
                 combination =(i*i)*(i*i-1)/2;
                 result=(combination-8*count);
-                count=count+1-1;
+                count=count+i-1;
             }
             System.out.println(result);
         }
