@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q6 {
+public class Q6_1072 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         long input1=Integer.parseInt(sc.nextLine());
