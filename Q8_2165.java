@@ -4,7 +4,7 @@
  * PS LINK: https://cses.fi/problemset/task/2165/
  */
  import java.util.*;
- ;public class Q8 {
+ ;public class Q8_2165 {
 
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
