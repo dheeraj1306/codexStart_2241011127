@@ -6,7 +6,7 @@
  import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-public class Q9 {
+public class Q9_2205 {
   
 
     public static void main(String[] args) {
